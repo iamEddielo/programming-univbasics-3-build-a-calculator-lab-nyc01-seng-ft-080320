@@ -5,11 +5,11 @@ end
 
 def subtraction(num1, num2)
   sub = num2 - num1
-  puts sum
+  puts sub
 end
 
 def division(num1, num2)
-  div = num2/ num1
+  div = num2 % num1
   puts div
 end
 
